@@ -1,0 +1,6 @@
+order_id,customer_id,product,quantity,price,order_date,region
+1001,C001,Laptop,1,1200,2024-01-05,East
+1002,C002,Mouse,2,25,2024-01-06,West
+1003,C001,Keyboard,1,80,2024-01-10,East
+1004,C003,Monitor,1,300,2024-01-15,South
+1005,C004,Laptop,1,1150,2024-01-20,North
